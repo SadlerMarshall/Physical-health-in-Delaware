@@ -1,2 +1,2 @@
-# Physical-health-in-Delaware
+# Physical Health Data in Delaware
 Public Data Set comparing adult obesity and physical inactivity rates in Delaware
