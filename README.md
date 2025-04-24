@@ -1,5 +1,5 @@
 # Physical Health Data in Delaware
-Public Data Set comparing adult obesity and physical inactivity rates in Delaware
+Public Data Set comparing adult obesity and physical inactivity rates in Delaware form 2014 to 2015. 
 
 # Naviagting the Repository 
 The repositoty will include the following
