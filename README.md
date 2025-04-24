@@ -13,4 +13,6 @@ The County Public Health Data was ofund through x because x. The primary purpose
 
 # Data Visualizations
 
+The relationship between adult obesity and physcal inactivity rates in Delaware have a clear relationship, which is enhanced when looking at a data visualization. The below graphs shows thw 
+better undertsand and analyze the signifigance
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/e6fcf844-a432-41e9-99b1-04f32d852157" />
