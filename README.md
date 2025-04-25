@@ -1,7 +1,7 @@
 # Physical Health Data in Delaware
 A County Public Health dataset, and a subset comparing adult obesity and physical inactivity rates in Delaware from 2014 to 2015. 
 
-# Naviagting the Repository 
+# Navigating the Repository 
 The repository will include,
 - A County Public Health Data csv file, which includes public health data related to various counties across the United States
 - A Python notebook, which includes instructions on how to construct a subset of the County Public Health Data.
