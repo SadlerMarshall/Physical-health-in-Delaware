@@ -3,7 +3,7 @@ A County Public Health dataset, and a subset comparing adult obesity and physica
 
 # Navigating the Repository 
 The repository includes two folders.
-- The ["Data"](URL)" folder includes a County Public Health Data .csv file, which contains public health data related to various counties across the United States, and a data subset, presented as a .csv file, which contains a smaller portion of the County Public Health Data.
+- The ["Data"](https://github.com/SadlerMarshall/Physical-health-in-Delaware/tree/main/Data)" folder includes a County Public Health Data .csv file, which contains public health data related to various counties across the United States, and a data subset, presented as a .csv file, which contains a smaller portion of the County Public Health Data.
 -  The "Python Instructions" folder includes a Python notebook, which includes instructions on how to construct a subset of the County Public Health Data.
 
 # Purpose
