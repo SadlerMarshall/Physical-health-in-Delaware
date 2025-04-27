@@ -4,7 +4,7 @@ A County Public Health dataset, and a subset comparing adult obesity and physica
 # Navigating the Repository 
 The repository includes two folders.
 - The ["Data"](https://github.com/SadlerMarshall/Physical-health-in-Delaware/tree/main/Data)" folder includes a County Public Health Data .csv file, which contains public health data related to various counties across the United States, and a data subset, presented as a .csv file, which contains a smaller portion of the County Public Health Data.
--  The "Python Instructions" folder includes a Python notebook, which includes instructions on how to construct a subset of the County Public Health Data.
+-  The ["Python Instructions"](https://github.com/SadlerMarshall/Physical-health-in-Delaware/tree/main/Python%20Instructions) folder includes a Python notebook, which holds instructions on how to construct a subset of the County Public Health Data.
 
 # Purpose
 The primary purpose of creating a smaller subset of data is to better analyze a specific relationship. To better understand the increasing obesity rates in the United States, the subset compares adult obesity and physical inactivity rates. As physical inactivity rises, adult obesity typically follows, and the subset creates a smaller table to help visualize the relationship. Delaware is known for its beautiful outdoors and opportunities to stay active, so the data focuses on analyzing how the two variables relate to one another. The original County Public Health Data was provided as a csv file but can be found on GitHub where it is located in its own repository. 
