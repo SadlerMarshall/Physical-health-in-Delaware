@@ -17,3 +17,6 @@ The primary purpose of creating a smaller subset of data is to better analyze a 
 The relationship between adult obesity and physical inactivity rates in Delaware has a clear relationship, which is enhanced when looking at a data visualization. The below bar graph illustrates is helpful to better understand and analyze the significance of the data subset.
 
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/e6fcf844-a432-41e9-99b1-04f32d852157" />
+# Further Use
+- The new subset of data and the data visualization are beneficial in understanding physical health in Delaware.
+- Doctors and health professionals are able to use the subset to understand the correlation between the two variables and are able to better communicate to patients the crucialness of physical activity to one's health. 
